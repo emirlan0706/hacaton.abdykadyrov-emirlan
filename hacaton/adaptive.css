@@ -1,0 +1,27 @@
+@media all and (max-width: 1027px) {
+  .content__desc {
+    width: 95%;
+  }
+  .about__item {
+    width: 97%;
+  }
+}
+@media all and (max-width: 769px) {
+  .navbar__logo {
+    margin-right: 30%;
+  }
+  .about__desc1 {
+    font-size: 13px;
+  }
+  .about__desc2 {
+    font-size: 13px;
+  }
+  .services__list {
+    flex-wrap: wrap;
+    width: 40%;
+  }
+  .about__desc {
+    width: 132%;
+    font-size: 20px;
+  }
+}
